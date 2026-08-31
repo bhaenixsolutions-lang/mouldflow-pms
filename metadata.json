@@ -1,0 +1,10 @@
+{
+  "name": "Remix Injection Moulding Production Management",
+  "description": "Mobile-first manufacturing production management system for injection moulding plants with role-based access, multi-department reports, downtime/rejection tracking, planning, and AI OCR \u0026 analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
